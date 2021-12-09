@@ -1,0 +1,66 @@
+textarea {
+    background-color:lightcoral;
+    width: 40%;
+    height: 5vh ;
+    border-radius: solid black;
+    display:  block;
+    margin: 1rem; 
+    padding: 5rem;
+    margin-top: 2%;
+    margin-left: 6%;
+    border: 5px solid black;
+}
+
+#output {
+    background-color: lightcoral;
+    border: 5px solid black;
+    height: 5vh;
+    width : 40%;
+    margin-left: 6%;
+    padding: 5rem;
+    margin-top: 1%;
+    
+}
+
+
+body{
+    background-color: coral;
+}
+
+
+.style {
+    margin: 0px;
+    width: 725px;
+    height: 198px;
+}
+
+/* .h2{
+    margin-top: 20%;
+} */
+
+p{
+    margin-left: 32%;
+}
+
+.about{
+    margin-left: 25rem;
+}
+head{
+    background-color: subtle color schemes;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
